@@ -1,5 +1,5 @@
-#The two functions below will return the inverse of a square matrix,
-#using lexical scoping to avoid recalculating the inverse of the same matrix if re-called.
+#The two functions are created to return the inverse of a square matrix,
+#using lexical scoping in order to avoid recalculating the inverse of the same matrix if re-called.
 
 #First function:
 #makeCacheMatrix() creates an R object that 
